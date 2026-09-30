@@ -54,7 +54,7 @@ Free desktop tools for data center health checks and VDI sizing, for **macOS** (
 
 The installers aren't code-signed yet, so the operating system warns you the first time:
 
-- **macOS:** after dragging the app to Applications, **right-click → Open → Open**. On recent macOS versions you may instead need **System Settings → Privacy & Security → Open Anyway**.
+- **macOS:** drag the app to Applications and double-click it. When macOS says it can't verify the app, click **Done**, then open **System Settings → Privacy & Security**, scroll down, click **Open Anyway**, and confirm with your password or Touch ID. (On macOS 14 and earlier, **right-click → Open** also works.)
 - **Windows:** on the "Windows protected your PC" screen, click **More info → Run anyway**.
 
 You only need to do this once.
