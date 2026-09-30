@@ -1,0 +1,65 @@
+DATACENTER TOOLS FREEWARE LICENSE
+
+Copyright (c) 2026 ppespepe. All rights reserved.
+
+This license covers the following software and their documentation (together, the "Software"):
+  - Intersight UCS Health Check
+  - Horizon VDI Sizer
+including their installers, user manuals and any updates published at
+https://github.com/ppespepe/datacenter-tools
+
+1. PERMISSION TO USE
+   You may download, install and use the Software free of charge, for personal or
+   business purposes, on any number of computers. You may use the reports, workbooks,
+   PDFs and other output you create with the Software for any purpose, including sharing
+   them with customers and colleagues.
+
+2. RESTRICTIONS
+   You may not, without the copyright holder's prior written permission:
+   a) redistribute, publish, rent, lease, sell or sublicense the Software or its installers,
+      or bundle them with other products. To share the Software, link to
+      https://github.com/ppespepe/datacenter-tools instead;
+   b) modify, adapt, translate or create derivative works of the Software;
+   c) reverse engineer, decompile or disassemble the Software, except to the extent
+      applicable law expressly permits it despite this restriction;
+   d) remove or alter any copyright notice, this license, or other notices in the Software.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. The copyright holder keeps all rights not
+   expressly granted in this license.
+
+4. THIRD-PARTY COMPONENTS AND TRADEMARKS
+   The Software includes open-source components (such as Electron and React) that remain
+   under their own licenses, which are included with the installed application.
+   The Software is independent and is not an official product of, or endorsed or supported by,
+   Cisco, Omnissa, Broadcom/VMware, Nutanix or NVIDIA. All product names and trademarks
+   belong to their respective owners.
+
+5. ESTIMATES ARE NOT PROFESSIONAL ADVICE
+   Sizing results, health findings, benchmark estimates and other output are planning
+   estimates based on data you provide, data from third-party services, and assumptions
+   that may not fit your environment. You are responsible for validating them (for example
+   with an assessment, vendor guidance and a pilot) before making purchasing, design or
+   operational decisions.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, ACCURACY AND NON-INFRINGEMENT. YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY DIRECT, INDIRECT, INCIDENTAL,
+   SPECIAL OR CONSEQUENTIAL DAMAGES (SUCH AS LOST PROFITS, HARDWARE OR LICENSING COSTS,
+   DOWNTIME OR DATA LOSS), WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. TERMINATION
+   This license ends automatically if you break any of its terms. When it ends, you must
+   stop using the Software and delete all copies.
+
+9. CHANGES
+   Future versions of the Software may be released under different terms. The terms
+   included with a version apply to that version.
+
+By installing or using the Software, you agree to this license.

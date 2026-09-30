@@ -65,8 +65,17 @@ You only need to do this once.
 - The Intersight tool connects only to the Intersight URL you enter, and only when you click **Test connection** or **Collect**.
 - All screenshots here and in the manuals use invented demo data.
 
+## License
+
+Both tools are **freeware** under the [Datacenter Tools Freeware License](LICENSE.txt):
+
+- ✅ Free to use, for personal or business purposes, on any number of computers. You can share the reports and workbooks you create.
+- 🚫 Don't modify, resell or redistribute the installers. To share the tools, link to this page instead.
+- ⚠️ Provided **as is**, with no warranty and no liability. Results are planning estimates you should validate.
+
+The installers show the license before installation.
+
 ## Disclaimer
 
 These are independent tools. They aren't official products of, or supported by, Cisco, Omnissa, Broadcom/VMware, Nutanix or NVIDIA. Product names are trademarks of their owners.
 Sizing results are planning estimates. Validate them with assessment data and a pilot before ordering hardware.
-The software is provided as is, without warranty of any kind.
